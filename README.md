@@ -1,8 +1,9 @@
 # Bankist
 An online bank interface that allows customers to transfer, withdrawal, and deposit money. 
 
-## Watch live -> https://devmonzer.github.io/Bankist/
+Watch live -> https://devmonzer.github.io/Bankist/
 
+<a href="https://ibb.co/Bqcsq1h"><img src="https://i.ibb.co/xJX5J4n/Capture.jpg" alt="Capture" border="0"></a>
 
 ## Accounts you can use to lg in: 
   2) User: js PIN: 1111
